@@ -20,7 +20,7 @@ namespace ProyectoQ
 
             //variables para cedula
             string cedula = "200456789";
-                string emp;
+            string emp;
             string plan;
 
             //buscar por medio de la cedula
@@ -34,51 +34,21 @@ namespace ProyectoQ
             //ahora para la impresion del dato del empleado
             Datosparaarchivosnuevo
                 .Add(
-                ArrayEmpleado[1]+" "+
+                ArrayEmpleado[1] + " " +
                  ArrayEmpleado[2] + " " +
                   ArrayEmpleado[3] + " " +
                  ArrayEmpleado[1]
                 );
             string pathDelNuevoArchivo = $@"C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\Archivos\{ArrayEmpleado[0]}.txt";
             archivos.CrearArchivo(pathDelNuevoArchivo, Datosparaarchivosnuevo);
-            
-            Console.WriteLine("Bienvenido al organizador de datos de empleados");
-            Console.WriteLine("");
-            Console.WriteLine("─── ❖ ── ✦ ── ❖ ─── ✦ ─── ❖ ── ✦ ── ❖ ───");
-            Console.WriteLine("");
-            Console.WriteLine("A continuacion hay dos opciones seleccione la que necesite");
-            Console.WriteLine("");
-            Console.WriteLine("1- Ver todos los salarios");
-            Console.WriteLine("2- Buscar salario por un ID");
-            Console.WriteLine("3- Salir");
-            Console.WriteLine("");
-            Console.WriteLine("Seleccione una opcion");
 
-            int opcion = int.Parse(Console.ReadLine());
+            Menu.MeNu();
 
-            if (opcion == 1)
-            {
-                Console.WriteLine("Aqui estan los salarios");
-            }
-            else if (opcion == 2)
-            {
 
-                Console.WriteLine("Aqui buscas un salario por ID");
 
-            }
-            else if (opcion == 3)
-            {
 
-                Console.WriteLine("Adios!");
 
-            }
-           
-          
-        }
 
-        
-       
-      
 
 
 
@@ -134,9 +104,7 @@ namespace ProyectoQ
 
 
 
-
-
-            
+        } 
         
     }
 }

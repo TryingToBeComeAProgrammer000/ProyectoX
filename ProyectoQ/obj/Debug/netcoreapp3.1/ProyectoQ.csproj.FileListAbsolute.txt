@@ -11,3 +11,17 @@ C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\obj\Deb
 C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.dll
 C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.pdb
 C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.genruntimeconfig.cache
+C:\Users\Bernal Santiago\Desktop\ProyectoX\ProyectoX\ProyectoQ\bin\Debug\netcoreapp3.1\ProyectoQ.exe
+C:\Users\Bernal Santiago\Desktop\ProyectoX\ProyectoX\ProyectoQ\bin\Debug\netcoreapp3.1\ProyectoQ.deps.json
+C:\Users\Bernal Santiago\Desktop\ProyectoX\ProyectoX\ProyectoQ\bin\Debug\netcoreapp3.1\ProyectoQ.runtimeconfig.json
+C:\Users\Bernal Santiago\Desktop\ProyectoX\ProyectoX\ProyectoQ\bin\Debug\netcoreapp3.1\ProyectoQ.runtimeconfig.dev.json
+C:\Users\Bernal Santiago\Desktop\ProyectoX\ProyectoX\ProyectoQ\bin\Debug\netcoreapp3.1\ProyectoQ.dll
+C:\Users\Bernal Santiago\Desktop\ProyectoX\ProyectoX\ProyectoQ\bin\Debug\netcoreapp3.1\ProyectoQ.pdb
+C:\Users\Bernal Santiago\Desktop\ProyectoX\ProyectoX\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.csproj.AssemblyReference.cache
+C:\Users\Bernal Santiago\Desktop\ProyectoX\ProyectoX\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernal Santiago\Desktop\ProyectoX\ProyectoX\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.AssemblyInfoInputs.cache
+C:\Users\Bernal Santiago\Desktop\ProyectoX\ProyectoX\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.AssemblyInfo.cs
+C:\Users\Bernal Santiago\Desktop\ProyectoX\ProyectoX\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.csproj.CoreCompileInputs.cache
+C:\Users\Bernal Santiago\Desktop\ProyectoX\ProyectoX\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.dll
+C:\Users\Bernal Santiago\Desktop\ProyectoX\ProyectoX\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.pdb
+C:\Users\Bernal Santiago\Desktop\ProyectoX\ProyectoX\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.genruntimeconfig.cache
