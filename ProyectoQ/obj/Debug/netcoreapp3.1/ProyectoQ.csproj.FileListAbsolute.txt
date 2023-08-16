@@ -1,0 +1,13 @@
+C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\bin\Debug\netcoreapp3.1\ProyectoQ.exe
+C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\bin\Debug\netcoreapp3.1\ProyectoQ.deps.json
+C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\bin\Debug\netcoreapp3.1\ProyectoQ.runtimeconfig.json
+C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\bin\Debug\netcoreapp3.1\ProyectoQ.runtimeconfig.dev.json
+C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\bin\Debug\netcoreapp3.1\ProyectoQ.dll
+C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\bin\Debug\netcoreapp3.1\ProyectoQ.pdb
+C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.AssemblyInfoInputs.cache
+C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.AssemblyInfo.cs
+C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.csproj.CoreCompileInputs.cache
+C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.dll
+C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.pdb
+C:\Users\ryome\OneDrive\Escritorio\Nueva carpeta (4)\ProyectoQ\ProyectoQ\obj\Debug\netcoreapp3.1\ProyectoQ.genruntimeconfig.cache

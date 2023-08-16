@@ -1,0 +1,6 @@
+﻿200456789 Ingeniero de Software ₡15000 40 10%
+201234567 Enfermera ₡12000 36 5%
+209876543 Electricista ₡13000 42 8%
+205678912 Contadora ₡14000 45 12%
+207890123 Programador ₡10000 30 3%
+208765432 DiseñadoraGráfica ₡17000 38 6%
