@@ -6,7 +6,7 @@ namespace ProyectoX
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Definitivo");
+            Console.WriteLine("Definitivo");
         }
     }
 }

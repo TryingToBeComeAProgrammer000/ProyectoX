@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bernal Santiago\\Desktop\\ProyectoX\\ProyectoX\\ProyectoX\\ProyectoX.csproj": {}
+    "C:\\Users\\Kendall Villegas\\Desktop\\Otro intento másXD\\ProyectoX\\ProyectoX\\ProyectoX.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bernal Santiago\\Desktop\\ProyectoX\\ProyectoX\\ProyectoX\\ProyectoX.csproj": {
+    "C:\\Users\\Kendall Villegas\\Desktop\\Otro intento másXD\\ProyectoX\\ProyectoX\\ProyectoX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bernal Santiago\\Desktop\\ProyectoX\\ProyectoX\\ProyectoX\\ProyectoX.csproj",
+        "projectUniqueName": "C:\\Users\\Kendall Villegas\\Desktop\\Otro intento másXD\\ProyectoX\\ProyectoX\\ProyectoX.csproj",
         "projectName": "ProyectoX",
-        "projectPath": "C:\\Users\\Bernal Santiago\\Desktop\\ProyectoX\\ProyectoX\\ProyectoX\\ProyectoX.csproj",
-        "packagesPath": "C:\\Users\\Bernal Santiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bernal Santiago\\Desktop\\ProyectoX\\ProyectoX\\ProyectoX\\obj\\",
+        "projectPath": "C:\\Users\\Kendall Villegas\\Desktop\\Otro intento másXD\\ProyectoX\\ProyectoX\\ProyectoX.csproj",
+        "packagesPath": "C:\\Users\\Kendall Villegas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kendall Villegas\\Desktop\\Otro intento másXD\\ProyectoX\\ProyectoX\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Bernal Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kendall Villegas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
